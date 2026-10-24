@@ -1,1 +1,0 @@
-import{a as e,n as t}from"./jsx-runtime-Wy9s6hX0.js";import{p as n,r,t as i}from"./hooks-Ckvu2sJJ.js";import{f as a,u as o,y as s}from"./firestoreMemoria-CF2D0TtD.js";var c=e(t(),1);function l(){let{db:e}=n(),t=(0,c.useMemo)(()=>r(e),[e]);return i(t.pacientes,[s(`baja`,`==`,null),a(`apellidos`),o(2e3)],[e])}export{l as t};

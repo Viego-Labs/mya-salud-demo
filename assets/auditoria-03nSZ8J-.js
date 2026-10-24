@@ -1,1 +1,0 @@
-import{n as e,r as t,t as n}from"./firestoreMemoria-CF2D0TtD.js";async function r(r,i,a=null){return(await e(t(r.db,`auditoria`),{uid:r.uid,email:r.email,accion:i,pacienteId:a,fecha:n.now(),origen:`app`})).id}export{r as t};

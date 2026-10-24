@@ -34,8 +34,8 @@
       "_button-zgu1an9v.js"
     ]
   },
-  "_FormularioPaciente-CRlwVdMh.js": {
-    "file": "assets/FormularioPaciente-CRlwVdMh.js",
+  "_FormularioPaciente-K7bnTaUk.js": {
+    "file": "assets/FormularioPaciente-K7bnTaUk.js",
     "name": "FormularioPaciente",
     "imports": [
       "_jsx-runtime-Wy9s6hX0.js",
@@ -43,8 +43,8 @@
       "_plus-DUt7TkJH.js",
       "_command-DzLvWMQX.js",
       "_x-DoE_a9Xx.js",
-      "_hooks-Ckvu2sJJ.js",
-      "_firestoreMemoria-CF2D0TtD.js",
+      "_hooks-Dfxx8VkA.js",
+      "_firestoreMemoria-oNSG9KEV.js",
       "_dist-Dn6xe3K0.js",
       "_dist-DVoGfCmn.js",
       "_dialog-aAfIKnq5.js",
@@ -84,11 +84,21 @@
       "_jsx-runtime-Wy9s6hX0.js"
     ]
   },
-  "_auditoria-03nSZ8J-.js": {
-    "file": "assets/auditoria-03nSZ8J-.js",
+  "_ajustes-BFdfgsY0.js": {
+    "file": "assets/ajustes-BFdfgsY0.js",
+    "name": "ajustes",
+    "imports": [
+      "_hooks-Dfxx8VkA.js",
+      "_firestoreMemoria-oNSG9KEV.js",
+      "_huecos-tu1rVVi_.js",
+      "_disponibilidad-VkpYmCCQ.js"
+    ]
+  },
+  "_auditoria-B45mOeMP.js": {
+    "file": "assets/auditoria-B45mOeMP.js",
     "name": "auditoria",
     "imports": [
-      "_firestoreMemoria-CF2D0TtD.js"
+      "_firestoreMemoria-oNSG9KEV.js"
     ]
   },
   "_badge-DVwt78w7.js": {
@@ -99,12 +109,12 @@
       "_button-zgu1an9v.js"
     ]
   },
-  "_bonos-B4YnQTk4.js": {
-    "file": "assets/bonos-B4YnQTk4.js",
+  "_bonos-DYva2gpg.js": {
+    "file": "assets/bonos-DYva2gpg.js",
     "name": "bonos",
     "imports": [
-      "_hooks-Ckvu2sJJ.js",
-      "_firestoreMemoria-CF2D0TtD.js"
+      "_hooks-Dfxx8VkA.js",
+      "_firestoreMemoria-oNSG9KEV.js"
     ]
   },
   "_busqueda-DENkKRKg.js": {
@@ -187,15 +197,15 @@
     "file": "assets/dinero-pt_I0_AD.js",
     "name": "dinero"
   },
-  "_disponibilidad-EXELXflq.js": {
-    "file": "assets/disponibilidad-EXELXflq.js",
+  "_disponibilidad-VkpYmCCQ.js": {
+    "file": "assets/disponibilidad-VkpYmCCQ.js",
     "name": "disponibilidad",
     "imports": [
-      "_hooks-Ckvu2sJJ.js",
-      "_firestoreMemoria-CF2D0TtD.js",
+      "_hooks-Dfxx8VkA.js",
+      "_firestoreMemoria-oNSG9KEV.js",
       "_busqueda-DENkKRKg.js",
       "_huecos-tu1rVVi_.js",
-      "_bonos-B4YnQTk4.js"
+      "_bonos-DYva2gpg.js"
     ]
   },
   "_dist-BIS_MFvH.js": {
@@ -270,8 +280,8 @@
     "file": "assets/firebaseConfig-B54WKQmu.js",
     "name": "firebaseConfig"
   },
-  "_firestoreMemoria-CF2D0TtD.js": {
-    "file": "assets/firestoreMemoria-CF2D0TtD.js",
+  "_firestoreMemoria-oNSG9KEV.js": {
+    "file": "assets/firestoreMemoria-oNSG9KEV.js",
     "name": "firestoreMemoria"
   },
   "_format-C2tVgG7g.js": {
@@ -281,12 +291,12 @@
       "_startOfDay-Cxbk11Fw.js"
     ]
   },
-  "_hooks-Ckvu2sJJ.js": {
-    "file": "assets/hooks-Ckvu2sJJ.js",
+  "_hooks-Dfxx8VkA.js": {
+    "file": "assets/hooks-Dfxx8VkA.js",
     "name": "hooks",
     "imports": [
       "_jsx-runtime-Wy9s6hX0.js",
-      "_firestoreMemoria-CF2D0TtD.js"
+      "_firestoreMemoria-oNSG9KEV.js"
     ]
   },
   "_huecos-tu1rVVi_.js": {
@@ -321,13 +331,13 @@
       "_button-zgu1an9v.js"
     ]
   },
-  "_pacientesCache-BWsNcv7e.js": {
-    "file": "assets/pacientesCache-BWsNcv7e.js",
+  "_pacientesCache-Dl7z_vFI.js": {
+    "file": "assets/pacientesCache-Dl7z_vFI.js",
     "name": "pacientesCache",
     "imports": [
       "_jsx-runtime-Wy9s6hX0.js",
-      "_hooks-Ckvu2sJJ.js",
-      "_firestoreMemoria-CF2D0TtD.js"
+      "_hooks-Dfxx8VkA.js",
+      "_firestoreMemoria-oNSG9KEV.js"
     ]
   },
   "_pencil-CQAqQ65V.js": {
@@ -360,14 +370,6 @@
     "name": "react-dom",
     "imports": [
       "_jsx-runtime-Wy9s6hX0.js"
-    ]
-  },
-  "_servicios-DlqqJ_B7.js": {
-    "file": "assets/servicios-DlqqJ_B7.js",
-    "name": "servicios",
-    "imports": [
-      "_hooks-Ckvu2sJJ.js",
-      "_firestoreMemoria-CF2D0TtD.js"
     ]
   },
   "_sheet-BHEGaeC1.js": {
@@ -425,13 +427,13 @@
       "_button-zgu1an9v.js"
     ]
   },
-  "_useConfig-612nY1Ru.js": {
-    "file": "assets/useConfig-612nY1Ru.js",
+  "_useConfig-CZr6OKqT.js": {
+    "file": "assets/useConfig-CZr6OKqT.js",
     "name": "useConfig",
     "imports": [
       "_jsx-runtime-Wy9s6hX0.js",
-      "_hooks-Ckvu2sJJ.js",
-      "_firestoreMemoria-CF2D0TtD.js"
+      "_hooks-Dfxx8VkA.js",
+      "_firestoreMemoria-oNSG9KEV.js"
     ]
   },
   "_user-plus-B7te3uqy.js": {
@@ -449,7 +451,7 @@
     ]
   },
   "index.html": {
-    "file": "assets/index-DzndY0K3.js",
+    "file": "assets/index-5NM07Kws.js",
     "name": "index",
     "src": "index.html",
     "isEntry": true,
@@ -466,14 +468,14 @@
       "_plus-DUt7TkJH.js",
       "_command-DzLvWMQX.js",
       "_user-plus-B7te3uqy.js",
-      "_hooks-Ckvu2sJJ.js",
-      "_firestoreMemoria-CF2D0TtD.js",
+      "_hooks-Dfxx8VkA.js",
+      "_firestoreMemoria-oNSG9KEV.js",
       "_Tema-ISMsFWfm.js",
       "_dist-Dn6xe3K0.js",
       "_dist-DbGsZEJm.js",
       "_dist-DVoGfCmn.js",
       "_dialog-aAfIKnq5.js",
-      "_pacientesCache-BWsNcv7e.js",
+      "_pacientesCache-Dl7z_vFI.js",
       "_busqueda-DENkKRKg.js",
       "_sheet-BHEGaeC1.js",
       "_skeleton-BVuVhq3V.js",
@@ -496,17 +498,23 @@
       "src/demo/semillas.ts"
     ],
     "css": [
-      "assets/index-BM2SBUgC.css"
+      "assets/index-C6BSnzvF.css"
     ]
   },
+  "node_modules/xlsx/xlsx.mjs": {
+    "file": "assets/xlsx-B6k0zyQV.js",
+    "name": "xlsx",
+    "src": "node_modules/xlsx/xlsx.mjs",
+    "isDynamicEntry": true
+  },
   "reservar.html": {
-    "file": "assets/reservar-DTpEWQmt.js",
+    "file": "assets/reservar-BrY3aGkV.js",
     "name": "reservar",
     "src": "reservar.html",
     "isEntry": true,
     "imports": [
       "_firebaseConfig-B54WKQmu.js",
-      "_firestoreMemoria-CF2D0TtD.js",
+      "_firestoreMemoria-oNSG9KEV.js",
       "_preload-helper-B5DflCBs.js",
       "_huecos-tu1rVVi_.js",
       "_telefono-wyc46_kH.js"
@@ -519,12 +527,12 @@
     ]
   },
   "src/demo/semillas.ts": {
-    "file": "assets/semillas-B5iHmV93.js",
+    "file": "assets/semillas-DUzW5j14.js",
     "name": "semillas",
     "src": "src/demo/semillas.ts",
     "isDynamicEntry": true,
     "imports": [
-      "_firestoreMemoria-CF2D0TtD.js",
+      "_firestoreMemoria-oNSG9KEV.js",
       "_busqueda-DENkKRKg.js",
       "_huecos-tu1rVVi_.js",
       "_dinero-pt_I0_AD.js",
@@ -533,7 +541,7 @@
     ]
   },
   "src/secciones/agenda/Agenda.tsx": {
-    "file": "assets/Agenda-CJqqCpsq.js",
+    "file": "assets/Agenda-C57sWJWf.js",
     "name": "Agenda",
     "src": "src/secciones/agenda/Agenda.tsx",
     "isDynamicEntry": true,
@@ -544,13 +552,13 @@
       "_button-zgu1an9v.js",
       "_calendar-plus-BrZ8DS-u.js",
       "_pencil-CQAqQ65V.js",
-      "_hooks-Ckvu2sJJ.js",
-      "_firestoreMemoria-CF2D0TtD.js",
+      "_hooks-Dfxx8VkA.js",
+      "_firestoreMemoria-oNSG9KEV.js",
       "_dialog-aAfIKnq5.js",
       "_label-CN60D1F5.js",
       "_input-BX1bSvH5.js",
       "_textarea-sx8iKHEl.js",
-      "_pacientesCache-BWsNcv7e.js",
+      "_pacientesCache-Dl7z_vFI.js",
       "_busqueda-DENkKRKg.js",
       "_sheet-BHEGaeC1.js",
       "_skeleton-BVuVhq3V.js",
@@ -558,8 +566,8 @@
       "_huecos-tu1rVVi_.js",
       "_telefono-wyc46_kH.js",
       "_BarraAcciones-CwBDw-xf.js",
-      "_useConfig-612nY1Ru.js",
-      "_disponibilidad-EXELXflq.js",
+      "_useConfig-CZr6OKqT.js",
+      "_disponibilidad-VkpYmCCQ.js",
       "_format-C2tVgG7g.js",
       "_es-CNKjEUe9.js",
       "_badge-DVwt78w7.js",
@@ -572,7 +580,7 @@
     ]
   },
   "src/secciones/agenda/Calendario.tsx": {
-    "file": "assets/Calendario-FQRr1pRH.js",
+    "file": "assets/Calendario-D8GF8Rf1.js",
     "name": "Calendario",
     "src": "src/secciones/agenda/Calendario.tsx",
     "isDynamicEntry": true,
@@ -584,7 +592,7 @@
     ]
   },
   "src/secciones/ajustes/Ajustes.tsx": {
-    "file": "assets/Ajustes-DnwCKmpt.js",
+    "file": "assets/Ajustes-DLxzbnKv.js",
     "name": "Ajustes",
     "src": "src/secciones/ajustes/Ajustes.tsx",
     "isDynamicEntry": true,
@@ -595,28 +603,27 @@
       "_descargar-BLaIwQ5G.js",
       "_plus-DUt7TkJH.js",
       "_user-plus-B7te3uqy.js",
-      "_hooks-Ckvu2sJJ.js",
-      "_firestoreMemoria-CF2D0TtD.js",
+      "_hooks-Dfxx8VkA.js",
+      "_firestoreMemoria-oNSG9KEV.js",
       "_Tema-ISMsFWfm.js",
       "_label-CN60D1F5.js",
       "_tabs-RqbIbsRH.js",
       "_input-BX1bSvH5.js",
       "_textarea-sx8iKHEl.js",
-      "_pacientesCache-BWsNcv7e.js",
+      "_pacientesCache-Dl7z_vFI.js",
       "_skeleton-BVuVhq3V.js",
       "_csv-CbLS2y9K.js",
-      "_useConfig-612nY1Ru.js",
-      "_disponibilidad-EXELXflq.js",
+      "_useConfig-CZr6OKqT.js",
       "_format-C2tVgG7g.js",
       "_es-CNKjEUe9.js",
       "_badge-DVwt78w7.js",
-      "_servicios-DlqqJ_B7.js",
-      "_auditoria-03nSZ8J-.js",
+      "_ajustes-BFdfgsY0.js",
+      "_auditoria-B45mOeMP.js",
       "_EstadoVacio-DGclfTdb.js"
     ]
   },
   "src/secciones/catalogo/Catalogo.tsx": {
-    "file": "assets/Catalogo-BCtfa-dh.js",
+    "file": "assets/Catalogo-DbPqijJi.js",
     "name": "Catalogo",
     "src": "src/secciones/catalogo/Catalogo.tsx",
     "isDynamicEntry": true,
@@ -626,29 +633,29 @@
       "_dist-BIS_MFvH.js",
       "_button-zgu1an9v.js",
       "_plus-DUt7TkJH.js",
-      "_hooks-Ckvu2sJJ.js",
+      "_hooks-Dfxx8VkA.js",
       "_dialog-aAfIKnq5.js",
       "_label-CN60D1F5.js",
       "_tabs-RqbIbsRH.js",
       "_input-BX1bSvH5.js",
-      "_pacientesCache-BWsNcv7e.js",
+      "_pacientesCache-Dl7z_vFI.js",
       "_skeleton-BVuVhq3V.js",
       "_dinero-pt_I0_AD.js",
       "_plantillasConsulta-QFaQCflU.js",
       "_BarraAcciones-CwBDw-xf.js",
-      "_useConfig-612nY1Ru.js",
-      "_bonos-B4YnQTk4.js",
+      "_useConfig-CZr6OKqT.js",
+      "_bonos-DYva2gpg.js",
       "_format-C2tVgG7g.js",
       "_es-CNKjEUe9.js",
       "_badge-DVwt78w7.js",
       "_Importes-BlaEIQvo.js",
-      "_servicios-DlqqJ_B7.js",
+      "_ajustes-BFdfgsY0.js",
       "_EstadoVacio-DGclfTdb.js",
       "_SelectorPaciente-BtZRqAeC.js"
     ]
   },
   "src/secciones/comunicacion/Comunicacion.tsx": {
-    "file": "assets/Comunicacion-CEiS_rtb.js",
+    "file": "assets/Comunicacion-C5NgTmlS.js",
     "name": "Comunicacion",
     "src": "src/secciones/comunicacion/Comunicacion.tsx",
     "isDynamicEntry": true,
@@ -658,15 +665,15 @@
       "_dist-BIS_MFvH.js",
       "_button-zgu1an9v.js",
       "_plus-DUt7TkJH.js",
-      "_hooks-Ckvu2sJJ.js",
-      "_firestoreMemoria-CF2D0TtD.js",
+      "_hooks-Dfxx8VkA.js",
+      "_firestoreMemoria-oNSG9KEV.js",
       "_label-CN60D1F5.js",
       "_tabs-RqbIbsRH.js",
       "_input-BX1bSvH5.js",
       "_textarea-sx8iKHEl.js",
-      "_pacientesCache-BWsNcv7e.js",
+      "_pacientesCache-Dl7z_vFI.js",
       "_skeleton-BVuVhq3V.js",
-      "_useConfig-612nY1Ru.js",
+      "_useConfig-CZr6OKqT.js",
       "_format-C2tVgG7g.js",
       "_es-CNKjEUe9.js",
       "_badge-DVwt78w7.js",
@@ -675,7 +682,7 @@
     ]
   },
   "src/secciones/consulta/Consulta.tsx": {
-    "file": "assets/Consulta-1eMG0tTs.js",
+    "file": "assets/Consulta-Bg4jD5OZ.js",
     "name": "Consulta",
     "src": "src/secciones/consulta/Consulta.tsx",
     "isDynamicEntry": true,
@@ -685,23 +692,25 @@
       "_dist-BIS_MFvH.js",
       "_button-zgu1an9v.js",
       "_CabeceraPaciente-652acSnR.js",
-      "_hooks-Ckvu2sJJ.js",
-      "_firestoreMemoria-CF2D0TtD.js",
+      "_hooks-Dfxx8VkA.js",
+      "_firestoreMemoria-oNSG9KEV.js",
       "_dialog-aAfIKnq5.js",
       "_label-CN60D1F5.js",
       "_input-BX1bSvH5.js",
       "_textarea-sx8iKHEl.js",
       "_skeleton-BVuVhq3V.js",
       "_plantillasConsulta-QFaQCflU.js",
-      "_useConfig-612nY1Ru.js",
-      "_bonos-B4YnQTk4.js",
+      "_useConfig-CZr6OKqT.js",
+      "_bonos-DYva2gpg.js",
       "_format-C2tVgG7g.js",
       "_es-CNKjEUe9.js",
+      "_badge-DVwt78w7.js",
+      "_auditoria-B45mOeMP.js",
       "_EstadoVacio-DGclfTdb.js"
     ]
   },
   "src/secciones/datos/Datos.tsx": {
-    "file": "assets/Datos-BuUIDlFX.js",
+    "file": "assets/Datos-DqR_W2Kb.js",
     "name": "Datos",
     "src": "src/secciones/datos/Datos.tsx",
     "isDynamicEntry": true,
@@ -709,15 +718,15 @@
       "_jsx-runtime-Wy9s6hX0.js",
       "_chunk-OB3PAWPO-BUXi4ifu.js",
       "_button-zgu1an9v.js",
-      "_hooks-Ckvu2sJJ.js",
-      "_firestoreMemoria-CF2D0TtD.js",
-      "_pacientesCache-BWsNcv7e.js",
+      "_hooks-Dfxx8VkA.js",
+      "_firestoreMemoria-oNSG9KEV.js",
+      "_pacientesCache-Dl7z_vFI.js",
       "_skeleton-BVuVhq3V.js",
       "_preload-helper-B5DflCBs.js",
       "_huecos-tu1rVVi_.js",
       "_dinero-pt_I0_AD.js",
       "_facturas-BT4xZHo4.js",
-      "_useConfig-612nY1Ru.js",
+      "_useConfig-CZr6OKqT.js",
       "_badge-DVwt78w7.js",
       "_BotonWhatsApp-Bx9iYD2E.js",
       "_EstadoVacio-DGclfTdb.js"
@@ -739,7 +748,7 @@
     ]
   },
   "src/secciones/facturacion/Facturacion.tsx": {
-    "file": "assets/Facturacion-DFtzjcPZ.js",
+    "file": "assets/Facturacion-dVwEHt2u.js",
     "name": "Facturacion",
     "src": "src/secciones/facturacion/Facturacion.tsx",
     "isDynamicEntry": true,
@@ -752,19 +761,19 @@
       "_descargar-BLaIwQ5G.js",
       "_file-plus-B9Yjhb-L.js",
       "_plus-DUt7TkJH.js",
-      "_hooks-Ckvu2sJJ.js",
-      "_firestoreMemoria-CF2D0TtD.js",
+      "_hooks-Dfxx8VkA.js",
+      "_firestoreMemoria-oNSG9KEV.js",
       "_dialog-aAfIKnq5.js",
       "_label-CN60D1F5.js",
       "_tabs-RqbIbsRH.js",
       "_input-BX1bSvH5.js",
       "_textarea-sx8iKHEl.js",
-      "_pacientesCache-BWsNcv7e.js",
+      "_pacientesCache-Dl7z_vFI.js",
       "_skeleton-BVuVhq3V.js",
       "_dinero-pt_I0_AD.js",
       "_facturas-BT4xZHo4.js",
       "_BarraAcciones-CwBDw-xf.js",
-      "_useConfig-612nY1Ru.js",
+      "_useConfig-CZr6OKqT.js",
       "_format-C2tVgG7g.js",
       "_es-CNKjEUe9.js",
       "_badge-DVwt78w7.js",
@@ -777,7 +786,7 @@
     ]
   },
   "src/secciones/hoy/Hoy.tsx": {
-    "file": "assets/Hoy-DLVEI-lk.js",
+    "file": "assets/Hoy-blxsIcnH.js",
     "name": "Hoy",
     "src": "src/secciones/hoy/Hoy.tsx",
     "isDynamicEntry": true,
@@ -790,22 +799,24 @@
       "_check-DHgVgZCr.js",
       "_CabeceraPaciente-652acSnR.js",
       "_x-DoE_a9Xx.js",
-      "_hooks-Ckvu2sJJ.js",
-      "_firestoreMemoria-CF2D0TtD.js",
-      "_pacientesCache-BWsNcv7e.js",
-      "_useConfig-612nY1Ru.js",
-      "_disponibilidad-EXELXflq.js",
+      "_hooks-Dfxx8VkA.js",
+      "_firestoreMemoria-oNSG9KEV.js",
+      "_pacientesCache-Dl7z_vFI.js",
+      "_huecos-tu1rVVi_.js",
+      "_useConfig-CZr6OKqT.js",
+      "_disponibilidad-VkpYmCCQ.js",
       "_format-C2tVgG7g.js",
       "_es-CNKjEUe9.js",
       "_badge-DVwt78w7.js",
       "_Importes-BlaEIQvo.js",
       "_BotonWhatsApp-Bx9iYD2E.js",
       "_estados-B0J5ASrA.js",
+      "_ajustes-BFdfgsY0.js",
       "_EstadoVacio-DGclfTdb.js"
     ]
   },
   "src/secciones/pacientes/FichaPaciente.tsx": {
-    "file": "assets/FichaPaciente-BXkdQqid.js",
+    "file": "assets/FichaPaciente-DBNGRUV8.js",
     "name": "FichaPaciente",
     "src": "src/secciones/pacientes/FichaPaciente.tsx",
     "isDynamicEntry": true,
@@ -818,12 +829,12 @@
       "_file-plus-B9Yjhb-L.js",
       "_pencil-CQAqQ65V.js",
       "_CabeceraPaciente-652acSnR.js",
-      "_hooks-Ckvu2sJJ.js",
-      "_firestoreMemoria-CF2D0TtD.js",
+      "_hooks-Dfxx8VkA.js",
+      "_firestoreMemoria-oNSG9KEV.js",
       "_dialog-aAfIKnq5.js",
-      "_FormularioPaciente-CRlwVdMh.js",
+      "_FormularioPaciente-K7bnTaUk.js",
       "_tabs-RqbIbsRH.js",
-      "_pacientesCache-BWsNcv7e.js",
+      "_pacientesCache-Dl7z_vFI.js",
       "_skeleton-BVuVhq3V.js",
       "_plantillasConsulta-QFaQCflU.js",
       "_BarraAcciones-CwBDw-xf.js",
@@ -832,12 +843,12 @@
       "_badge-DVwt78w7.js",
       "_Importes-BlaEIQvo.js",
       "_estados-B0J5ASrA.js",
-      "_auditoria-03nSZ8J-.js",
+      "_auditoria-B45mOeMP.js",
       "_EstadoVacio-DGclfTdb.js"
     ]
   },
   "src/secciones/pacientes/Pacientes.tsx": {
-    "file": "assets/Pacientes-CTzV8MjE.js",
+    "file": "assets/Pacientes-C3Fl1mQl.js",
     "name": "Pacientes",
     "src": "src/secciones/pacientes/Pacientes.tsx",
     "isDynamicEntry": true,
@@ -848,21 +859,25 @@
       "_button-zgu1an9v.js",
       "_CabeceraPaciente-652acSnR.js",
       "_user-plus-B7te3uqy.js",
-      "_hooks-Ckvu2sJJ.js",
+      "_hooks-Dfxx8VkA.js",
       "_dialog-aAfIKnq5.js",
       "_label-CN60D1F5.js",
-      "_FormularioPaciente-CRlwVdMh.js",
+      "_FormularioPaciente-K7bnTaUk.js",
       "_input-BX1bSvH5.js",
-      "_pacientesCache-BWsNcv7e.js",
+      "_pacientesCache-Dl7z_vFI.js",
       "_busqueda-DENkKRKg.js",
+      "_preload-helper-B5DflCBs.js",
       "_telefono-wyc46_kH.js",
       "_BarraAcciones-CwBDw-xf.js",
       "_badge-DVwt78w7.js",
       "_EstadoVacio-DGclfTdb.js"
+    ],
+    "dynamicImports": [
+      "node_modules/xlsx/xlsx.mjs"
     ]
   },
   "src/secciones/pedidos/Pedidos.tsx": {
-    "file": "assets/Pedidos-DXG8XAS2.js",
+    "file": "assets/Pedidos-B9Chfww4.js",
     "name": "Pedidos",
     "src": "src/secciones/pedidos/Pedidos.tsx",
     "isDynamicEntry": true,
@@ -871,15 +886,15 @@
       "_chunk-OB3PAWPO-BUXi4ifu.js",
       "_dist-BIS_MFvH.js",
       "_button-zgu1an9v.js",
-      "_hooks-Ckvu2sJJ.js",
-      "_firestoreMemoria-CF2D0TtD.js",
+      "_hooks-Dfxx8VkA.js",
+      "_firestoreMemoria-oNSG9KEV.js",
       "_dialog-aAfIKnq5.js",
       "_label-CN60D1F5.js",
       "_input-BX1bSvH5.js",
-      "_pacientesCache-BWsNcv7e.js",
+      "_pacientesCache-Dl7z_vFI.js",
       "_skeleton-BVuVhq3V.js",
       "_BarraAcciones-CwBDw-xf.js",
-      "_useConfig-612nY1Ru.js",
+      "_useConfig-CZr6OKqT.js",
       "_format-C2tVgG7g.js",
       "_es-CNKjEUe9.js",
       "_badge-DVwt78w7.js",
@@ -889,7 +904,7 @@
     ]
   },
   "src/secciones/reservas/Reservas.tsx": {
-    "file": "assets/Reservas-Dw9SyUGQ.js",
+    "file": "assets/Reservas-CEQwGPCm.js",
     "name": "Reservas",
     "src": "src/secciones/reservas/Reservas.tsx",
     "isDynamicEntry": true,
@@ -899,17 +914,18 @@
       "_button-zgu1an9v.js",
       "_check-DHgVgZCr.js",
       "_x-DoE_a9Xx.js",
-      "_hooks-Ckvu2sJJ.js",
-      "_firestoreMemoria-CF2D0TtD.js",
+      "_hooks-Dfxx8VkA.js",
+      "_firestoreMemoria-oNSG9KEV.js",
       "_label-CN60D1F5.js",
       "_switch-Df6NGepa.js",
       "_input-BX1bSvH5.js",
       "_skeleton-BVuVhq3V.js",
-      "_useConfig-612nY1Ru.js",
-      "_disponibilidad-EXELXflq.js",
+      "_useConfig-CZr6OKqT.js",
+      "_disponibilidad-VkpYmCCQ.js",
       "_format-C2tVgG7g.js",
       "_es-CNKjEUe9.js",
-      "_servicios-DlqqJ_B7.js",
+      "_BotonWhatsApp-Bx9iYD2E.js",
+      "_ajustes-BFdfgsY0.js",
       "_EstadoVacio-DGclfTdb.js"
     ]
   },
