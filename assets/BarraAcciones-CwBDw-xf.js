@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-Wy9s6hX0.js";import{o as t}from"./button-zgu1an9v.js";var n=e();function r({children:e,className:r}){return(0,n.jsx)(`div`,{className:t(`flex flex-col gap-2 sm:flex-row sm:items-center sm:justify-end`,r),children:e})}export{r as t};

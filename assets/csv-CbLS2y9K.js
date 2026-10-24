@@ -1,0 +1,1 @@
+var e=/^-?\d+([.,]\d+)?$/;function t(t){let n=/^[=+\-@\t\r]/.test(t)&&!e.test(t),r=n?`'${t}`:t;return/[;"\n\r]/.test(r)||n?`"${r.replace(/"/g,`""`)}"`:r}export{t};

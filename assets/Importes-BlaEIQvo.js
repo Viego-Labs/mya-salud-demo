@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-Wy9s6hX0.js";import{o as t}from"./button-zgu1an9v.js";import{r as n}from"./dinero-pt_I0_AD.js";var r=e();function i({centimos:e,className:i}){return(0,r.jsx)(`span`,{className:t(`tabular-nums`,i),children:n(e)})}export{i as t};
